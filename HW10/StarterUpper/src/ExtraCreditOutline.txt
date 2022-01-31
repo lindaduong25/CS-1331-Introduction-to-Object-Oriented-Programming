@@ -1,0 +1,11 @@
+Linda Duong 
+
+I did all of the extra credit
+
+5 Entries : There are listed in the StartUpIdeas.txt and they include students and non-students
+UI Control to display problems as they are submitted (line 41): I used listView for this, i used it in several buttons and methods
+Removing Ideas (line 148): I created a remove button
+Add new fields (line 80ish): Can be seen around line 80 in StarterUppper class
+Audio (around lines 93, 189, and 223): I added audios to my submit button, remove button, as well as one for input validation in verifyString and verifyInt helper methods
+Color to form (line 174): I added that in StarterUpper class
+Picture (lines 48, 169) : You can see it when you run the GUI program

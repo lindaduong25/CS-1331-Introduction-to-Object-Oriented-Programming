@@ -1,0 +1,7 @@
+Receipt
+Chipotle
+-20.3, 50.7
+Tacos, $5.99
+Burrito, $9.99
+Total: $15.98
+Thank you for dining with us!

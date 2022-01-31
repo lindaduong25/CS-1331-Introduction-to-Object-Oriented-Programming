@@ -1,0 +1,11 @@
+Bad1.java
+- compile time error
+- The class "BAD1" should be "Bad1" to match the file name.
+
+Bad2.java
+- runtime error
+- There is an arithmetic error, or zero divison error. It is invalid to divide by zero.
+
+Bad3.java
+- compile time error
+- There is a mismatch of types, the character 'a' should be of type char since char is not of the String type. 

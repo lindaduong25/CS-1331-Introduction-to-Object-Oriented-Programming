@@ -1,0 +1,9 @@
+Receipt
+Chipotle
+-20.3, 50.7
+Tacos, $5.99
+Burrito, $9.99
+Subtotal: $15.98
+Delivery: $10.92
+Total: $26.90
+Thank you for dining with us!

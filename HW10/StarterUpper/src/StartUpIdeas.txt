@@ -1,0 +1,55 @@
+1:
+Problem: More than ever, humans need to find ways to help reduce emissions and mitigating climate change. A Carpooling app could be a solution in that there would be less cars used since people would essentially be sharing transportation.
+Target Customer: Anyone who usually calls a cab or does not want to drive on their own, Students who like to travel off campus together
+Customer Need: 6
+Known People With Problem: 10
+Target Market Size: 1500
+Competitors: There are many people who like to drive on their own or who do not like sharing rides. We have buses and shuttles that basically help with this problem as well.
+Costs/Expenses: $5000
+User Purpose: There are many people who believe strongly in sustainability but also sharing traveling costs could be a benefit for users. Additionally carpooling may be quicker than taking a bus. 
+Risks: Insurance coverage in case of accidents for independent contractors and data handling due to reliance of personal and location data.
+
+2:
+Problem: Sometimes people go on a vacation or they decide to go home over a summer break but they still have a lease for an apartment, a subleasing platform could be a way for them to easily advertise their leases for rent.
+Target Customer: Students or anyone going home for a long break that still need their apartment to be lived in until the lease is up or until the person gets back from their break.
+Customer Need: 7
+Known People With Problem: 20
+Target Market Size: 2000
+Competitors: People have used other platforms to advertise leases such as a Facebook group.
+Costs/Expenses: $1000
+User Purpose: There are many people who are trying to quickly find someone to lease their apartments to especially over summer, this could be a quick and easy way to advertise that.
+Risks: Laws governing tenant subleasing, liabilities for sub tenants if they do not pay their rent on time
+
+3:
+Problem: Sometimes finding videos on YouTube specialized in a certain tech topic may be hard to find, so having resources in one place catered to Tech people would be great. It could be a platform that offers something like CodeAcademy but in video formats.
+Target Customer: People in the Tech industry whether students or employees
+Customer Need: 8
+Known People With Problem: 50
+Target Market Size: 10000
+Competitors: YouTube, CodeAcademy, other platforms that might already be similar to what this service would provide
+Costs/Expenses: $2000
+User Purpose: It could help employees and students alike figure out a tough coding problem for instance or may just be the thing that allows them to find inspiration for a new product or project.
+Risks: CopyRight infringement
+
+4:
+Problem: There are a lot of businesses looking for ways to have their services provided and advertised online through websites and apps. I would say it’s really a high demand, but not a lot of business owners know how to code their own website, so it would be great to have a platform that makes it easily customizable.
+Target Customer: Students, Business Owners, People looking for advertising
+Customer Need: 8
+Known People With Problem: 100
+Target Market Size: 5000
+Competitors: Platforms that may also be providing easy design tools such as WordPress
+Costs/Expenses: $5000
+User Purpose: There are a ton of people who need someone who knows how to do web development and/or app development. 
+Risks: Trademarks, copyRight, domain names, consumer protection
+
+5:
+Problem: For students and people working in a more populated city, more crimes are bound to happen, so it would be nice to get alerts right away through an app that could show you how far away a certain crime happened similar to the NOVID app. Users can also report crimes.
+Target Customer: People living in higher crime areas.
+Customer Need: 6
+Known People With Problem: 20
+Target Market Size: 1000
+Competitors: TV news, social media platforms, concerned parents/relatives who are already looking out for their loved ones, campus police departments
+Costs/Expenses: $3000
+User Purpose: Some people are really scared when they have to walk at night or they know they may be walking in sketchy areas of a city, so having an app that alerts you ahead of time could potentially save your life.
+Risks: Safety, reporting incorrect information, you could have swarm of vigilantes rather than focusing on safety and avoiding crimes, conflicts with law enforcement
+
